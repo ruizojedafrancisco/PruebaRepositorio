@@ -1,5 +1,7 @@
 package prClase;
 
+// PRUEBA DE CAMBIOS
+
 public class Estudiante {
 	
 	// Variables de instancia (guardan información del alumno)
